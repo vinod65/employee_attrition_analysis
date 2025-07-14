@@ -39,7 +39,7 @@ This project helps understand the factors behind employee attrition (employees l
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/employee_attrition_analysis.git
+   git clone https://github.com/vinod65/employee_attrition_analysis.git
    cd employee_attrition_analysis
    ```
 
